@@ -6,6 +6,7 @@
     <meta name="keywords" content="Gym, unica, creative, html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
     <title>Obsidiana</title>
 
     <!-- Google Font -->
@@ -37,7 +38,7 @@
 
     <!-- Offcanvas Menu Section Begin -->
     <div class="offcanvas-menu-overlay"></div>
-    <div class="offcanvas-menu-wrapper">
+       <div class="offcanvas-menu-wrapper">
       <div class="canvas-close">
         <i class="fa fa-close"></i>
       </div>
